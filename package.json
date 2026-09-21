@@ -1,0 +1,1 @@
+{"name":"cyber-hititai","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.js","dev":"node --watch server.js"},"dependencies":{"dotenv":"^16.4.5","express":"^4.21.2","express-session":"^1.18.1"}}
